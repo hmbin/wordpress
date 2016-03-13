@@ -123,7 +123,7 @@ wp_head();
 
 		if( ( '' != spacious_header_title() )  && !( is_front_page() ) ) {
 			if( !( spacious_options( 'spacious_blog_slider', '0' ) == '0' && is_home( ) ) ){ ?>
-				<div class="header-post-title-container clearfix">
+				<!-- <div class="header-post-title-container clearfix">
 					<div class="inner-wrap">
 						<div class="post-title-wrapper">
 							<?php
@@ -140,7 +140,7 @@ wp_head();
 						</div>
 						<?php if( function_exists( 'spacious_breadcrumb' ) ) { spacious_breadcrumb(); } ?>
 					</div>
-				</div>
+				</div> -->
 			<?php
 			}
 	   	}

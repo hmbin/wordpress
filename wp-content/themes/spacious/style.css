@@ -363,7 +363,7 @@ img {
 	max-width:100%;
 	height:auto;
 	vertical-align:top;
-	margin-bottom: 18px;
+	/*margin-bottom: 18px;*/
 }
 .entry-content img, .comment-content img, .widget img {
 	max-width: 100%; /* Fluid images for posts, comments, and widgets */
@@ -919,7 +919,7 @@ li.default-menu {
    display: none;
 }
 #main {
-	padding: 40px 0 10px 0;
+	padding: 0 0 10px 0;
 }
 .widget_service_block {
 	margin-bottom: 30px;
@@ -2117,4 +2117,38 @@ a#scroll-up:hover {
 }
 .footer-column-1, .footer-column-2, .footer-column-3 {
 	float: left;
+}
+.header-style-homepage{
+	background-color: red;
+	width: 100%;
+	height: 310px;
+}
+.header-style{
+	width: 100%;
+	height: 310px;
+}
+.header-style-zz{
+	background-color: #69C41F;
+}
+.header-style-mid{
+	background-color: #FF3366;
+}
+.header-style .header-padding{
+	padding-top: 100px;
+}
+.header-style h1{
+	text-align: center;
+	color: white;
+}
+.header-style .header-chn{
+	text-align: center;
+	color: white;
+	font-size: 42px;
+}
+.header-style h6{
+	text-align: center;
+	color: white;
+	border: 2px solid white;
+	display:block;
+	padding: 0;
 }
