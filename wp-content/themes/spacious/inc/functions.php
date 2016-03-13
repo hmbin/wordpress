@@ -442,11 +442,11 @@ endif;
 
 /**************************************************************************************/
 
-add_action( 'spacious_footer_copyright', 'spacious_footer_copyright', 10 );
+//add_action( 'spacious_footer_copyright', 'spacious_footer_copyright', 10 );
 /**
  * function to show the footer info, copyright information
  */
-if ( ! function_exists( 'spacious_footer_copyright' ) ) :
+/*if ( ! function_exists( 'spacious_footer_copyright' ) ) :
 function spacious_footer_copyright() {
 	$site_link = '<a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" ><span>' . get_bloginfo( 'name', 'display' ) . '</span></a>';
 
@@ -459,7 +459,7 @@ function spacious_footer_copyright() {
 	$spacious_footer_copyright = '<div class="copyright">'.$default_footer_value.'</div>';
 	echo $spacious_footer_copyright;
 }
-endif;
+endif;*/
 
 /**************************************************************************************/
 
@@ -513,11 +513,11 @@ function spacious_sanitize_textarea_custom( $input,$option ) {
 
 /****************************************************************************************/
 
-if ( ! function_exists( 'spacious_entry_meta' ) ) :
+//if ( ! function_exists( 'spacious_entry_meta' ) ) :
 /**
  * Shows meta information of post.
  */
-function spacious_entry_meta() {
+/*function spacious_entry_meta() {
    if ( 'post' == get_post_type() ) :
       echo '<footer class="entry-meta-bar clearfix">';
       echo '<div class="entry-meta clearfix">';
@@ -561,5 +561,5 @@ function spacious_entry_meta() {
       echo '</footer>';
    endif;
 }
-endif;
+endif;*/
 ?>
