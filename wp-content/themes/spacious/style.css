@@ -985,8 +985,8 @@ li.default-menu {
 }
 .tg-one-fifth {
 	float: left;
-	width: 18%;
-	margin: 0 2.46305419% 0 0;
+	/*width: 18%;
+	margin: 0 2.46305419% 0 0;*/
 	padding: 0px 0px 30px;
 }
 .tg-one-fifth-last {
@@ -2054,6 +2054,10 @@ a#scroll-up:hover {
 	margin-left: 35px;
 	margin-right: 35px;
 }
+.margin-70 {
+	margin-left: 60px;
+	margin-right: 60px;
+}
 .footer-style {
 	background-color: red;
 }
@@ -2133,9 +2137,25 @@ a#scroll-up:hover {
 .header-style-mid{
 	background-color: #FF3366;
 }
+.header-style-tea{
+	background-color: #996533;
+}
+.header-style-other{
+	background-color: #00CCCB;
+}
+.header-style-advantage{
+	background-color: #00CC99;
+}
+.header-style-customer{
+	background-color: #FF9933;
+}
+.header-style-contact{
+	background-color: #993399;
+}
 .header-style .header-padding{
 	padding-top: 100px;
 }
+
 .header-style h1{
 	text-align: center;
 	color: white;
@@ -2151,4 +2171,18 @@ a#scroll-up:hover {
 	border: 2px solid white;
 	display:block;
 	padding: 0;
+}
+.div_border {
+	border-bottom: 2px solid #EAEAEA;
+}
+.font-advantage h3{
+	text-align: center;
+	padding-bottom: 0;
+}
+.font-advantage p{
+	text-align: center;
+	font-size: 8px;
+}
+.design-images {
+	float: left;
 }
