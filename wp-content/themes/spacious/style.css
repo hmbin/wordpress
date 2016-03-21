@@ -2186,3 +2186,14 @@ a#scroll-up:hover {
 .design-images {
 	float: left;
 }
+.contact_div{
+	float: left;
+}
+.contact_div .contact_msg{
+	width: 50%;
+	float: left;
+}
+.contact_div .contact_form{
+	width: 50%;
+	float: left;
+}
