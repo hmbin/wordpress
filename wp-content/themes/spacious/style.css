@@ -2187,13 +2187,80 @@ a#scroll-up:hover {
 	float: left;
 }
 .contact_div{
-	float: left;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 60px;
 }
 .contact_div .contact_msg{
-	width: 50%;
+	width: 55%;
 	float: left;
+	padding-right: 30px;
 }
 .contact_div .contact_form{
-	width: 50%;
+	width: 40%;
 	float: left;
+}
+.contact_div .contact_msg .title-eng{
+	text-decoration: underline; 
+	color: red;
+	font-size: 45px;
+	padding-bottom: 30px;
+}
+.contact_div .contact_msg .title-chn{
+	font-size: 40px;
+	padding-bottom: 10px;
+	font-weight: 600;
+}
+.contact_div .contact_msg .text-chn{
+	font-size: 14px;
+	padding-bottom: 10px;
+	font-weight: 500;
+}
+.contact_div .contact_msg .text-name{
+	font-size: 25px;
+	padding-bottom: 0;
+	font-weight: 600;
+}
+.contact_div .contact_msg .text-addr{
+	font-size: 14px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+.contact_div .contact_msg .text-red{
+	color: red;
+	padding-top: 30px;
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+.contact_div .contact_msg .text-tel{
+	font-size: 14px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+.contact_div .contact_form .title-form{
+	font-size: 20px;
+	padding-bottom: 0;
+	font-weight: 600;
+}
+.contact_div .contact_form input{
+	padding-top: 4%;
+	padding-bottom: 4%;
+	margin: 0 0 10px;
+}
+.contact_div .contact_form textarea{
+	padding-top: 4%;
+	padding-bottom: 4%;
+	margin: 0 0 10px;
+	height: 150px;
+}
+.contact_div .contact_form input[type="submit"]{
+	color: red;
+	border: 1px solid red;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	width: 98%;
 }
