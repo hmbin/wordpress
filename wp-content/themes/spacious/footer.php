@@ -24,12 +24,12 @@
 				<div class="inner-wrap">
 					<div class="footer-widgets-area clearfix">
 						<div class="footer-1st footer-column-1">
-							<div class="service-image"><img src="http://localhost/wordpress/wp-content/uploads/2016/03/footerlogo.png" alt="" /></div>
+							<div class="service-image"><img src="<?php echo "http://$_SERVER[HTTP_HOST]"; ?>/wp-content/uploads/2016/03/footerlogo.png" alt="" /></div>
 							<p class="p-min">Add: 广州市番禺区钟村镇钟三村隆辉创业公馆B座325C     P.C.: 511495</p>
 							<p class="p-min">Tel: 020-3107 6047     E-mail: www.laoaguodesign.com     QQ: 329314588</p>
 						</div>
 						<div class="footer-2nd footer-column-2">
-							<div class="service-image"><img src="http://localhost/wordpress/wp-content/uploads/2016/03/qrcode.png" alt="" /></div>
+							<div class="service-image"><img src="<?php echo "http://$_SERVER[HTTP_HOST]"; ?>/wp-content/uploads/2016/03/qrcode.png" alt="" /></div>
 						</div>
 						<div class="footer-3rd footer-column-3">
 							<p class="p-max">与我们合作</p>
