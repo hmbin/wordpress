@@ -2140,6 +2140,9 @@ a#scroll-up:hover {
 .header-style-tea{
 	background-color: #996533;
 }
+.header-style-spring{
+	background-color: #FF3334;
+}
 .header-style-other{
 	background-color: #00CCCB;
 }
@@ -2171,6 +2174,24 @@ a#scroll-up:hover {
 	border: 2px solid white;
 	display:block;
 	padding: 0;
+}
+.header-style .div_font_border_short{
+	width: 130px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+.header-style .div_font_border_mid{
+	width: 180px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+.header-style .div_font_border_long{
+	width: 210px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
 }
 .div_border {
 	border-bottom: 2px solid #EAEAEA;
