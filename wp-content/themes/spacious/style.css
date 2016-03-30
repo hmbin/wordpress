@@ -2178,7 +2178,7 @@ a#scroll-up:hover {
 .header-style .header-chn{
 	text-align: center;
 	color: white;
-	font-size: 42px;
+	font-size: 38px;
 }
 .header-style h6{
 	text-align: center;
@@ -2235,7 +2235,6 @@ a#scroll-up:hover {
 	float: left;
 }
 .contact_div .contact_msg .title-eng{
-	text-decoration: underline; 
 	color: red;
 	font-size: 45px;
 	padding-bottom: 30px;
@@ -2243,7 +2242,6 @@ a#scroll-up:hover {
 .contact_div .contact_msg .title-chn{
 	font-size: 40px;
 	padding-bottom: 10px;
-	font-weight: 600;
 }
 .contact_div .contact_msg .text-chn{
 	font-size: 14px;

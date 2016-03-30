@@ -18,6 +18,7 @@
 			<h2 style="text-align: center;"><strong><span style="text-decoration: underline; color: #ff6600;">     </span></strong></h2>
 			<p style="text-align: center;">有关我们服务的更多信息，请联系</p>
 			<p style="text-align: center;">186 8838 5780 老郭 / 189 2277 5815 马小姐</p>
+			<p style="text-align: center;">本公司长期招聘包装设计师！</p>
 		</div>
 		<footer id="colophon" class="clearfix footer-style">
 			<div class="footer-widgets-wrapper">
