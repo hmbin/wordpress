@@ -25,6 +25,12 @@ and Blueprint http://www.blueprintcss.org/
     src:url('msyh/msyh.ttf');
 }
 
+@font-face {  
+    /* font-properties */  
+    font-family: majalla;  
+    src:url('font/majalla.ttf');
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -2290,4 +2296,8 @@ a#scroll-up:hover {
 	background-color: white;
 	padding: 10px 10px 10px 10px;
 	width: 98%;
+}
+.font_majalla_h1 {
+	font-family: 'majalla', sans-serif;
+	font-size: 38px;
 }

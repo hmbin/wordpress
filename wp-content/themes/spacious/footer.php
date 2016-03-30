@@ -13,7 +13,7 @@
 			</div><!-- .inner-wrap -->
 		</div><!-- #main -->	
 		<div>
-			<h1 style="text-align: center;"><strong>Are you interested in?</strong></h1>
+			<h1 style="text-align: center;" class="font_majalla_h1"><strong>Are you interested in?</strong></h1>
 			<h1 style="text-align: center;"><strong>感兴趣吗？</strong></h1>
 			<h2 style="text-align: center;"><strong><span style="text-decoration: underline; color: #ff6600;">     </span></strong></h2>
 			<p style="text-align: center;">有关我们服务的更多信息，请联系</p>
