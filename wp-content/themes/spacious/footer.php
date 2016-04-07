@@ -43,6 +43,13 @@
 					</div>
 				</div>
 			</div>
+			<div class="footer-socket-wrapper clearfix footer_copyright">
+				<div class="inner-wrap">
+					<div class="footer-socket-area">
+						<div class="copyright">Copyright © 2016 老郭品牌设计有限公司. Powered by <a href="http://protchar.cn" target="_blank" title="广州博璨电子商务有限公司"><span>广州博璨电子商务有限公司</span></a>.</div>
+					</div>
+				</div>
+			</div>
 		</footer>
 		<a href="#masthead" id="scroll-up"></a>	
 	</div><!-- #page -->

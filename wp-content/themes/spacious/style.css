@@ -2299,3 +2299,6 @@ a#scroll-up:hover {
 	font-family: 'majalla', sans-serif;
 	font-size: 38px;
 }
+.footer_copyright {
+	padding: 5px 0 5px 25px;
+}
